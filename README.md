@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Shady Emad</h1>
 <p align="center">
-  🐧 Linux Enthusiast | ☁️ Cloud & DevOps | ⚙️ Automation Lover
+  🐧 Linux | ☁️ Cloud & DevOps | ⚙️ Automation Lover
 </p>
 
 <p align="center">
