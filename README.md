@@ -35,8 +35,8 @@ I’ve studied and practiced a wide range of technologies including:
 ### 📜 Certifications
 
 - ✅ **Red Hat Certified System Administrator (RHCSA)**
-- ✅ **Huawei Certified ICT Associate - Cloud (HCCDA)**
-- ✅ **AWS Academy Graduate – Cloud Foundations**
+- ✅ **Huawei Certified - Cloud (HCCDA)**
+- ✅ **AWS Solutions Architect**
 
 ---
 
